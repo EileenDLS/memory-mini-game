@@ -8,3 +8,4 @@ If all the pictures of the cards are shown, the player wins. Otherwise the playe
 <img width="651" alt="Screen Shot 2024-02-15 at 13 31 24" src="https://github.com/EileenDLS/memory-mini-game/assets/121457817/23f8b195-b3a5-478e-82d6-8d061d9c5226">
 
 # Demo
+https://youtu.be/g41BX537Mh4
